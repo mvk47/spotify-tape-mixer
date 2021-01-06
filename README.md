@@ -5,3 +5,6 @@ Uses:
 1. Spotify API
 2. Webscrapping using Beautiful Soup
 3. spotipy module of python
+4. OAuth on spotify
+
+Please make sure the example site in your developer setting.  
